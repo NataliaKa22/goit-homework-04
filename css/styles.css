@@ -567,7 +567,7 @@ h6 {
 
 
 .media-item {
-    width: flex-basis: calc((100% - 3 * 16px) / 4);
+    width: flex-basis calc((100% - 3 * 16px) / 4);
     width: 40px;
     height: 40px;
 }
