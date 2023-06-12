@@ -535,19 +535,12 @@ h6 {
 /* -------------MEDIA------------ */
 .media {
 
-
     min-width: 208px;
     height: 80px;
-
-
+    padding: ;
 }
 
-.container-foot-media {
-    display: flex;
-    min-width: 208px;
-    align-items: baseline;
-
-}
+.footer-container {}
 
 .media-text {
     font-family: 'Roboto';
