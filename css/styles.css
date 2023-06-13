@@ -505,7 +505,9 @@ h6 {
     background: var(--title-color);
 }
 
-.footer-container {}
+.footer-container {
+    margin-right: 120px;
+}
 
 .footer-logo {
     display: inline-block;
@@ -535,6 +537,11 @@ h6 {
 /* -------------MEDIA------------ */
 .media {}
 
+.footer-media {
+    display: flex;
+    min-width: 208px;
+    align-items: baseline;
+}
 
 .media-text {
     font-family: 'Roboto';
